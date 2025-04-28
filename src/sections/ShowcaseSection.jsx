@@ -90,7 +90,7 @@ const AppShowcase = () => {
                   EchoHire - Your Personal AI Interview Coach (Currently
                   Building)
                 </h2>
-                <p className="text-justify">
+                <p>
                   EchoHire is a real-time AI voice platform designed to help
                   users practice and improve their interview skills through
                   natural, conversation-based mock sessions. It's especially
@@ -102,7 +102,7 @@ const AppShowcase = () => {
                   behavioral interviews.
                 </p>
 
-                <p className="text-justify">
+                <p>
                   Built with Next.js, TailwindCSS, Firebase, Vapi, and Google
                   Gemini, the platform features secure authentication, dynamic
                   session generation, and real-time voice interactions.
@@ -142,7 +142,7 @@ const AppShowcase = () => {
                   <h2 className="text-white-50 md:text-xl">
                     Fitness Management System
                   </h2>
-                  <p className="text-justify">
+                  <p>
                     Fitness Management System is a web application built with
                     Laravel, PHPMyAdmin, and Bootstrap to manage fitness
                     content, user queries, and workouts. Featuring a
@@ -180,7 +180,7 @@ const AppShowcase = () => {
                   <h2 className="text-white-50 md:text-xl">
                     Employee Leave Management System
                   </h2>
-                  <p className="text-justify">
+                  <p>
                     Employee Leave Management System is a desktop application
                     built with JavaFX, Java, and PostgreSQL that streamlines
                     leave requests, approvals, and history tracking. Designed

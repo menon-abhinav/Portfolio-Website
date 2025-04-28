@@ -265,7 +265,7 @@ const AppShowcase = () => {
                 <h2 className="text-white-50 md:text-xl">
                   Hand-Gesture Based Air Hockey Game
                 </h2>
-                <p className="text-justify">
+                <p>
                   Interactive Hand-Gesture Based Gaming is a real-time air
                   hockey game powered by computer vision, where players control
                   mallets using natural hand gestures captured through a webcam.
@@ -275,7 +275,7 @@ const AppShowcase = () => {
                   central blockers using simple gestures such as a closed fist
                   or open palm.
                 </p>
-                <p className="text-justify">
+                <p>
                   Built with Python, OpenCV, Mediapipe, and cvzone, the project
                   leverages a 21-point hand landmark model for precise hand
                   tracking and custom gameplay logic. Real-time frame processing
@@ -318,7 +318,7 @@ const AppShowcase = () => {
                   <h2 className="text-white-50 md:text-xl">
                     Facial Expression Detection
                   </h2>
-                  <p className="text-justify">
+                  <p>
                     Facial Expression Detection System is a lightweight
                     real-time solution built with TensorFlow Lite, Python, and
                     C++ to classify smiles and mouth states for biometric and
@@ -371,7 +371,7 @@ const AppShowcase = () => {
                       (Published)
                     </a>
                   </h2>
-                  <p className="text-justify">
+                  <p>
                     Gaze Gesture Authentication System is a real-time
                     eye-tracking solution designed to prevent shoulder-surfing
                     attacks by replacing traditional PIN entry with secure gaze
